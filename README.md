@@ -1,12 +1,18 @@
 # Deep-Learning-specialization
 
-This repository gathers all programming exercices from the Deep Learning specialization course available on Coursera (https://www.coursera.org/specializations/deep-learning) and taught by the well famous Andrew-Ng, ex chief-scientist at Baidu and AI researcher.  
-  
-Those exercices have been done in Python using several data science libraries and frameworks such as numpy for matrix/vectors computations and tensorflow to build production neural network models.  
+This repository gathers all programming exercices from the **Deep Learning specialization** course available on Coursera (https://www.coursera.org/specializations/deep-learning) and taught by the well famous Andrew-Ng, ex chief-scientist at Baidu and AI researcher.  
+
+## Stack
+
+Those exercices have been done in **Python** using several data science libraries and deep learning frameworks such as :  
+
+*  **Numpy**, mostly for matrix/vectors computations or basic mathematical operations. Sometimes it is used to build Neural Networks (NN) from scratch in those exercices. Adding to that, **Matplotlib** and **Scipy** are often used. 
+*  **Tensorflow**, in low level API in order to have full control in building production NN models. 
+*  **Keras**, high level API which allows to iterate quicker by building NN models much faster. 
 
 ## How to download all Coursera reference files?
 
-You will need extra files if you want to work on those jupyter notebooks in local (usually some helper functions, images, etc.).  
+You will need extra files if you want to work on those **jupyter notebooks in local** (often need to add helper functions, images, etc.).  
 Follow the process below to retrieve it : 
 
 1. Open a online jupyter notebook, and then click `File > Open ...`
