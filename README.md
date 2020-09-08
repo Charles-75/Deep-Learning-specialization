@@ -7,8 +7,8 @@ This repository gathers all programming exercices from the **Deep Learning speci
 Those exercices have been done in **Python** using several data science libraries and deep learning frameworks such as :  
 
 *  **Numpy**, mostly for matrix/vectors computations or basic mathematical operations. Sometimes it is used to build Neural Networks (NN) from scratch in those exercices. Adding to that, **Matplotlib** and **Scipy** are often used. 
-*  **Tensorflow**, in low level API in order to have full control in building production NN models. 
-*  **Keras**, high level API which allows to iterate quicker by building NN models much faster. 
+*  **Tensorflow** 1.14, in low level API in order to have full control in building production NN models. 
+*  **Keras** 2.2.4, high level API which allows to iterate quicker by building NN models much faster. 
 
 ## How to download all Coursera reference files?
 
